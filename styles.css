@@ -1,0 +1,21 @@
+
+
+.container {
+    position:relative;
+    /* background-image: url('assets/images/DSC09545-244x365.jpg'); */
+    background-repeat: no-repeat no-repeat;
+    width: 50%;
+    height:500px;
+}
+
+.home1 {
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+.home2 {
+    position: absolute;
+    top: 110px;
+    left: 180px;
+}
